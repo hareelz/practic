@@ -1,0 +1,23 @@
+input {
+    width: 100%;
+    padding: 10px 8px;
+    opacity: 0.9;
+    font-size: 18px;
+}
+
+.btn-primary {
+    width: 10%;
+    margin-left: 43%;
+    margin-top: 3%;
+}
+.search {
+    width: 15%;
+    padding: 6px;
+    margin-left: 40%;
+    margin-top: 5px;
+}
+.res {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
